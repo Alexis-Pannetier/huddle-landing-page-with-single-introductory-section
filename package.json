@@ -1,0 +1,22 @@
+{
+  "name": "huddle-landing-page-with-single-introductory-section",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "sass": "sass --watch styles/sass/main.scss styles/css/style.css"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Alexis-Pannetier/huddle-landing-page-with-single-introductory-section.git"
+  },
+  "author": "Alexis Pannetier",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Alexis-Pannetier/huddle-landing-page-with-single-introductory-section/issues"
+  },
+  "homepage": "https://github.com/Alexis-Pannetier/huddle-landing-page-with-single-introductory-section#readme",
+  "dependencies": {
+    "sass": "^1.56.1"
+  }
+}
