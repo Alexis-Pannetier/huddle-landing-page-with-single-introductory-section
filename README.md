@@ -25,9 +25,13 @@ Users should be able to:
 
 <div align="center">
 
-![Mobile](screenshots/mobile.jpg)
+#### Desktop
 
-![Desktop](screenshots/desktop.jpg)
+![Desktop](screenshots/Desktop.png)
+
+#### Mobile
+
+![Mobile](screenshots/Mobile.png)
 
 </div>
 
